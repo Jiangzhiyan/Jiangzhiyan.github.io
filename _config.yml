@@ -95,7 +95,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        {
         title: "Google",
         href: "https://google.com"
     }
