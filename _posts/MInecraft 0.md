@@ -1,6 +1,10 @@
 ---
 layout:     post
+<<<<<<< HEAD
 title:      Minecraft-0
+=======
+title:      Minecraft 0
+>>>>>>> f154fdb573d57957ccd9633178a70ae77358e132
 date:       2020-2-15
 author:     Gliker
 header-img: img/Minecraft 0/illegal-carousel.jpg
