@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      Minecraft Table of Contents
@@ -7,9 +6,6 @@ author:     Gliker
 header-img: img/minecraft.jpg
 catalog:      true
 ---
-
-```
-
 
 #  MINECRAFT
  Listen to the **c418** first.
