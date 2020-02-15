@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     post
 title:      Minecraft Table of Contents
 date:       2020-2-15 Saturday
 author:     Gliker
