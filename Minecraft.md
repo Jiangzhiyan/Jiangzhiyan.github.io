@@ -13,7 +13,7 @@ Listen to the **c418** first.
 
 ### 0 Before Playing 
 
-##### 0-1. 什么是Minecraft(国际版)
+##### 0-1. 什么是Minecraft
 
 ##### 0-2. Minecraft版本及哪种适合你
 
