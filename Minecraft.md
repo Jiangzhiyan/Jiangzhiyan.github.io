@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      Minecraft
+title:      Minecraft Table of Contents
 date:       2020-2-15 Saturday
 author:     Gliker
 header-img: img/minecraft.jpg
-catalog:      true
+catalog:      false
 ---
 
-Listen to the **c418** first.
-
 ## Table of Contents
+
+Listen to the **c418** first.
 
 ### 0 Before Playing 
 
