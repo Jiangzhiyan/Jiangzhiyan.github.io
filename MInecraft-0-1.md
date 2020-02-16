@@ -22,5 +22,5 @@ catalog:     true
 
 简单了解之后，我们一起来了解一下Minecraft的各种版本
 
-#### [下一篇](jiangzhiyan.github.io/minecraft-0-2) 0-2. Minecraft版本及哪种适合你 
+#### [下一篇]( jiangzhiyan.github.io/minecraft-0-2 ) 0-2. Minecraft版本及哪种适合你 
 
