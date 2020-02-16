@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      Minecraft-0
 date:       2020-2-15
 author:     Gliker
