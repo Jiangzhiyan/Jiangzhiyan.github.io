@@ -1,29 +1,24 @@
 ---
 layout:     post
-title:      minecraft-0
-date:       2020-2-15
+title:      minecraft-0-2
+date:       2020-2-16
 author:     Gliker
 header-img: img/Minecraft 0/illegal-carousel.jpg
 catalog:     true
 ---
 
+
 ## Before Playing
 
-##### 0-1. 什么是Minecraft
-
-在玩Minecraft之前，我们一起先来j了解一下什么是Minecraft 
-简单来说就是一款3D沙盒游戏
-它的作者是瑞典游戏设计师Notch单独开发
-2014年9月，微软公司宣布以25亿美金收购Mojang及游戏的知识产权
-2016年5月，网易宣布代理《我的世界》中国版
-
-##### 0-2. Minecraft版本及哪种适合你
+#### 0-2. Minecraft版本及哪种适合你
 
 Minecraft 主要分为中国版和国际版
 
-中国版分为手机版和电脑版(离线登陆 + 自建验证系统)
+##### 中国版分为手机版和电脑版(离线登陆 + 自建验证系统)
+
 中国版的优点和缺点都很分明
-优点:
+
+###### 优点:
 
 1. 免费 中国正版
 
@@ -31,7 +26,7 @@ Minecraft 主要分为中国版和国际版
 
 3. 联机简单
 
-缺点:
+###### 缺点:
 
 1. 版本更新速度慢
 
@@ -42,12 +37,15 @@ Minecraft 主要分为中国版和国际版
 4. 简单mod和插件
 
 
-国际版主要分为 BE 和 java版
-BE 就是 Bedrock 基岩版
-java 就是 电脑版
-主要是正版验证
+##### 国际版主要分为 BE 和 java版
+
+BE 就是 Bedrock 基岩版;
+java 就是 电脑版;
+
+主要是正版验证;
 还存在盗版 + 假uuid Java版和BE都有
-优点:
+
+###### 优点:
 
 1. 大量的mod 插件 光影
 
@@ -57,7 +55,7 @@ java 就是 电脑版
 
 4. 大量解读视频
 
-缺点:
+###### 缺点:
 
 1. 中文内容少
 
@@ -80,6 +78,9 @@ java 就是 电脑版
 
 5. 国际知名 Hpixel服务器的 小游戏 一定让你爱不释手
 
-Java版 一般价格在168左右
-基岩版 Google play store 一半在$6.99左右
+Java版 一般价格在168左右;
+
+基岩版 Google play store 一半在$6.99左右;
+
 其他平台暂时不建议购买
+
