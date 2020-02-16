@@ -1,13 +1,11 @@
 ---
 layout:     post
-title:      
+title:      minecraft-0
 date:       2020-2-15
 author:     Gliker
 header-img: img/Minecraft 0/illegal-carousel.jpg
 catalog:     true
 ---
-
-#
 
 ## Before Playing
 
