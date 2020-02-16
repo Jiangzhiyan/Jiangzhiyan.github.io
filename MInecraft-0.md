@@ -1,10 +1,10 @@
 ---
-layout:     page
-title:      Minecraft-0
+layout:     keynote
+title:      
 date:       2020-2-15
 author:     Gliker
 header-img: img/Minecraft 0/illegal-carousel.jpg
-catalog:      false
+catalog:     true
 ---
 
 ## Before Playing
